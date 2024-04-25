@@ -45,7 +45,7 @@ pip install torch torchvision matplotlib numpy scikit-image Pillow
 3. Change directory
 
 ```bash
-cd image-super-resolution
+cd PerceptualLossVAE
 ```
 
 4.  Run the Python script
